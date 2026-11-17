@@ -1,0 +1,9 @@
+# Compiled Java class files
+out/
+
+# VS Code workspace settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.class
