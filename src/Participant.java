@@ -1,3 +1,13 @@
+/**
+ * Advanced Programming — Lab Assignment I
+ * Adama Science and Technology University
+ *
+ * Group Members:
+ *   1. Kumala Adugna     — Ugr/37298/17
+ *   2. Shimelis Regassa  — Ugr/37774/17
+ *   3. Ziyad Areba       — Ugr/38058/17
+ */
+
 import java.util.ArrayList;
 
 public class Participant {

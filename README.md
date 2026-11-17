@@ -1,5 +1,22 @@
 # Lottery Application
 
+## Group Members
+
+| # | Full Name | Student ID |
+|---|---|---|
+| 1 | Kumala Adugna | Ugr/37298/17 |
+| 2 | Shimelis Regassa | Ugr/37774/17 |
+| 3 | Ziyad Areba | Ugr/38058/17 |
+
+---
+
+**Course**: Advanced Programming  
+**Institution**: Adama Science and Technology University  
+**Department**: Computer Science and Engineering  
+**Assignment**: Lab Assignment I
+
+---
+
 A menu-driven **Lottery Application** built with **Java**, developed as Lab Assignment I for the Advanced Programming course at Adama Science and Technology University.
 
 ## Features
